@@ -5,11 +5,11 @@ This repo is intendend to work as a base template for an assignment in a webdeve
 ## Setup
 
 ```bash
-git clone 
+git clone https://github.com/sebastianmentor/Kodskelett.git <path>
 ```
 
 ### envrionment
-Create a environment
+Create a environment at the project level!
 ```bash
 py -m venv my_environment
 ```
