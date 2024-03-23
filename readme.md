@@ -3,7 +3,7 @@
 This repo is intendend to work as a base template for an assignment in a webdevelopment course! 
 
 ## Setup
-
+Setup a empty folder and either navigate to that folder and skip path or paste the path to that folder in <path>
 ```bash
 git clone https://github.com/sebastianmentor/Kodskelett.git <path>
 ```
